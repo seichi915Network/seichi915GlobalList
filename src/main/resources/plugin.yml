@@ -1,0 +1,5 @@
+name: Seichi915GlobalList
+version: 1.0.0
+main: net.seichi915.seichi915globallist.Seichi915GlobalList
+description: "seichi915Network グローバルリストプラグイン"
+author: stouma915
