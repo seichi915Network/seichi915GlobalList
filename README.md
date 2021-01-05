@@ -1,0 +1,2 @@
+# seichi915GlobalList
+seichi915Network グローバルリストプラグイン
